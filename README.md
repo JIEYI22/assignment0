@@ -1,2 +1,2 @@
 # assignment0
-阅读-词库-词频-输出CSV
+#4steps read readings - read words - count words - output as CSV
